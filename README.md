@@ -3,6 +3,8 @@
 
 <p align="left">
  🔭 I’m currently working as a Data Analyst Intern at Bank Jago
+</p> 
+ <p align="left">
  🔥 Interested in Artificial Intelligence, Math, Machine Learning, Data, and Programming
 </p>
  
