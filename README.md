@@ -1,10 +1,9 @@
 
-# Hi there, welcome to my github repository! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hi there, welcome to my github repository! 
 
-<p align="justify">
 🔭 I’m currently working as a Data Analyst Intern at Bank Jago
 🔥 Interested in Artificial Intelligence, Math, Machine Learning, Data, and Programming
-</p>
+
 
 <img align='right' src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="230">
  
