@@ -1,31 +1,35 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" > Hi there, welcome to my github repository! 
+<img align='right' src = "https://github.com/nurimammasri/github-stats-transparent/blob/output/generated/overview.svg">
 
-🔭 I’m currently working as a Data Analyst Intern at Bank Jago
-🔥 Interested in Artificial Intelligence, Math, Machine Learning, Data, and Programming
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">  Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
 
-
-<img align='right' src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="230">
- 
-<p align="left">
-<a href="https://github.com/farelarden">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mfajrin-id&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mfajrin-id&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="justify">
+  I love various things about technology and follow a lot of learning media by taking courses on Android Development Native (Kotlin / Java), Android Development Multiplatform (Flutter), Data Science, Machine Learning, etc. Professionally, I implement a lot of my skills in various projects; personally, I want to build a startup business to support my capabilities and future technology development.
 </p>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Visitor Count](https://profile-counter.glitch.me/%7Bnurimammasri%7D/count.svg)
+
+<img align='right' src = "https://github.com/nurimammasri/github-stats-transparent/blob/output/generated/languages.svg">
+
+ ## ⭐ Repo
+
+<img align='right' src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" height="150px">
+
+|1|4|
+|:--------|:--------------------|
+|2|5| 
+|3|6| 
 
 ## Find me and let's connect 
 
 <p>
-  <a href="https://www.linkedin.com/in/mfajrin-id/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.instagram.com/mfajrin.id/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-  <a href="mailto:mfajrin.id@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-  <a href="https://medium.com/@mfajrin.id" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/nurimammasri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.instagram.com/nurimammasri" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+  <a href="mailto:nurimammasri.01@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="https://medium.com/@nurimammasri" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  
 </p>
 
 <!--
-**mfajrin-id/mfajrin-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nurimammasri/NurImamMasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
