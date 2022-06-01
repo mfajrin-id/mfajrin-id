@@ -1,12 +1,10 @@
 
 # Hi there, welcome to my github repository! 👋 
 
-<p align="justify">
+
 🔭 I’m currently working as a Data Analyst Intern at Bank Jago
 🔥 Interested in Artificial Intelligence, Math, Machine Learning, Data, and Programming
-</p>
 
-<img align='right' src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="230">
  
 <p align="left">
 <a href="https://github.com/farelarden">
