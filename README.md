@@ -1,5 +1,5 @@
 
-# Hi there, welcome to my github repository! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
+# Hi there, welcome to my github repository! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> 
 
 <p align="justify">
 🔭 I’m currently working as a Data Analyst Intern at Bank Jago
