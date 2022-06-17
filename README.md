@@ -15,7 +15,7 @@
 </a>
 </p>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/thisirasandawath/grid-snake/blob/main/Thisira-contribution-grid-snake.svg)
 
 ## Find me and let's connect 
 
